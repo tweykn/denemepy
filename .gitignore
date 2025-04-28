@@ -1,0 +1,13 @@
+# MacOS sistem dosyaları
+.DS_Store
+
+# Python cache dosyaları
+__pycache__/
+*.pyc
+
+# Ortam dosyaları
+.env
+
+# IDE ayar dosyaları
+.vscode/
+.idea/
