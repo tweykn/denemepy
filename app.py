@@ -1,0 +1,1 @@
+print(" Merhaba Dunya bu benim ilk py projem. ")
